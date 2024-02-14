@@ -48,13 +48,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import logcdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-lognormal-logcdf@deno/mod.js';
+import logcdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-lognormal-logcdf@v0.2.0-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-lognormal-logcdf@deno/mod.js';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-lognormal-logcdf@v0.2.0-deno/mod.js';
 ```
 
 #### logcdf( x, mu, sigma )
@@ -128,7 +128,7 @@ y = mylogcdf( 5.0 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import logcdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-lognormal-logcdf@deno/mod.js';
+import logcdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-lognormal-logcdf@v0.2.0-deno/mod.js';
 
 var sigma;
 var mu;
