@@ -48,13 +48,18 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import logcdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-lognormal-logcdf@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-dists-lognormal-logcdf/tags). For example,
+
+```javascript
 import logcdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-lognormal-logcdf@v0.2.2-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-lognormal-logcdf@v0.2.2-deno/mod.js';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-lognormal-logcdf@deno/mod.js';
 ```
 
 #### logcdf( x, mu, sigma )
@@ -128,7 +133,7 @@ y = mylogcdf( 5.0 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import logcdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-lognormal-logcdf@v0.2.2-deno/mod.js';
+import logcdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-lognormal-logcdf@deno/mod.js';
 
 var sigma;
 var mu;
