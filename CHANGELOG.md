@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`1c6fea0`](https://github.com/stdlib-js/stdlib/commit/1c6fea0027204331d9152f97079bc4a0a0957a2d) - **style:** fix variable order _(by Athan Reines)_
 -   [`48157fa`](https://github.com/stdlib-js/stdlib/commit/48157fa9f40922efe577aaa2d2a7b1eb2a28dd96) - **feat:** add C implementation for `stats/base/dists/lognormal/logcdf` [(#10882)](https://github.com/stdlib-js/stdlib/pull/10882) _(by Kamal Singh Rautela, Philipp Burckhardt)_
 -   [`60a4b85`](https://github.com/stdlib-js/stdlib/commit/60a4b8520b6f93a86c9f949a93c150bcd698d62d) - **refactor:** rename internal variables [(#12925)](https://github.com/stdlib-js/stdlib/pull/12925) _(by Philipp Burckhardt)_
 -   [`9fedcf9`](https://github.com/stdlib-js/stdlib/commit/9fedcf9679b2d3f8a90d30d4706634adf7ddbf73) - **docs:** fix parameter descriptions in `stats/base/dists/lognormal` [(#11829)](https://github.com/stdlib-js/stdlib/pull/11829) _(by Philipp Burckhardt)_
@@ -38,8 +39,9 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Kamal Singh Rautela
 -   Mara Averick
 -   Philipp Burckhardt
