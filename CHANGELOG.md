@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-05)
+## Unreleased (2026-07-27)
 
 <section class="features">
 
@@ -22,6 +22,8 @@
 
 <details>
 
+-   [`36ee366`](https://github.com/stdlib-js/stdlib/commit/36ee366130c07464017ccf0b49b9645a8f644a5f) - **chore:** clean-up [(#13539)](https://github.com/stdlib-js/stdlib/pull/13539) _(by Philipp Burckhardt)_
+-   [`67f7557`](https://github.com/stdlib-js/stdlib/commit/67f7557ca13ab425513196b26601e46f8a059ac2) - **chore:** clean-up [(#13283)](https://github.com/stdlib-js/stdlib/pull/13283) _(by Philipp Burckhardt)_
 -   [`1c6fea0`](https://github.com/stdlib-js/stdlib/commit/1c6fea0027204331d9152f97079bc4a0a0957a2d) - **style:** fix variable order _(by Athan Reines)_
 -   [`48157fa`](https://github.com/stdlib-js/stdlib/commit/48157fa9f40922efe577aaa2d2a7b1eb2a28dd96) - **feat:** add C implementation for `stats/base/dists/lognormal/logcdf` [(#10882)](https://github.com/stdlib-js/stdlib/pull/10882) _(by Kamal Singh Rautela, Philipp Burckhardt)_
 -   [`60a4b85`](https://github.com/stdlib-js/stdlib/commit/60a4b8520b6f93a86c9f949a93c150bcd698d62d) - **refactor:** rename internal variables [(#12925)](https://github.com/stdlib-js/stdlib/pull/12925) _(by Philipp Burckhardt)_
